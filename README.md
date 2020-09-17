@@ -9,7 +9,7 @@
 - redis
 - nginx
 
-### Installation
+### Installation:
 download repo
 ```
  git clone git@github.com:dipsor/laravel-starter.git 
