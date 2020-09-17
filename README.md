@@ -1,4 +1,4 @@
-##Laravel Starter
+## Laravel Starter
 ---
 - using laravel 7.0
 - php 7.4
