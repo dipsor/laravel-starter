@@ -1,5 +1,5 @@
 ## Laravel Starter
----
+
 - using laravel 7.0
 - php 7.4
 - mysql 5.7
