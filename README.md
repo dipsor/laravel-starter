@@ -28,4 +28,6 @@ yarn
 ```
 
 migrate and seed database
-```php aritsan migrate --seed ```
+``` 
+php aritsan migrate --seed
+```
