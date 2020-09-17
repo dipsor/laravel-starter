@@ -1,6 +1,9 @@
 ## Laravel Starter
 
-- using laravel 7.0
+- dockerized laravel app for local development
+
+### Using: 
+- laravel 7.0
 - php 7.4
 - mysql 5.7
 - redis
